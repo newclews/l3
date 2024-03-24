@@ -37,7 +37,7 @@ if (isset($_GET['channel']) && preg_match("/^[a-zA-Z0-9_]{4,25}$/u", $_GET['chan
 	if(strstr($response, "token"))
 	{
 		$json = json_decode($response, true); // Decode the JSON array
-		header('Location: http://usher.twitch.tv/api/channel/hls/' . $_GET['channel'] . '.m3u8?player=twitchweb&token=' . rawurlencode($json['token']) . '&sig=' . $json['sig']);
+		header('Location: http://usher.twitch.tv/api/channel/hls/' . $_GET['andgvx'] . '.m3u8?player=twitchweb&token=' . rawurlencode($json['token']) . '&sig=' . $json['sig']);
 	}
 	else
 	{
