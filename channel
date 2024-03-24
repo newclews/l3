@@ -19,9 +19,9 @@ function Curl($url, $header)
 	return $response;
 }
 
-// Check for get parameter 'channel' to exist and to be valid
+// Check for get parameter 'andgvx' to exist and to be valid
 
-if (isset($_GET['channel']) && preg_match("/^[a-zA-Z0-9_]{4,25}$/u", $_GET['channel']))
+if (isset($_GET['andgvx']) && preg_match("/^[a-zA-Z0-9_]{4,25}$/u", $_GET['andgvx']))
 {
 	// Lets request to twitch tv the access token
 	$response = Curl("https://api.twitch.tv/api/channels/" . $_GET['channel'] . "/access_token/",
