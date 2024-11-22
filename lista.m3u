@@ -1,3 +1,4 @@
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SPECTRUM CHANNEL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
-
+#EXTINF:0 type="stream" channelId="" group-title="Ao Vivo" aspect-ratio="Original", RADIO AURIVERDE BRASIL
+https://www.youtube.com/channel/UCLHIUIBIid6qpljFBWEOHSw/live
