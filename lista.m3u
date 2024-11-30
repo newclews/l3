@@ -10,3 +10,7 @@ https://edge-hls.doppiocdn.live/hls/171573268/master/171573268.m3u8
 https://edge-hls.doppiocdn.live/hls/118113567/master/118113567.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", STRAWWBOYS
 https://edge-hls.doppiocdn.live/hls/173264884/master/173264884.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HIHI0169
+https://edge-hls.doppiocdn.live/hls/108560022/master/108560022.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SEBAS1617FG
+https://edge-hls.doppiocdn.live/hls/84949894/master/84949894.m3u8
