@@ -28,6 +28,8 @@ https://edge-hls.doppiocdn.live/hls/177116619/master/177116619.m3u8
 https://edge-hls.doppiocdn.live/hls/41564101/master/41564101.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SWEET WALLEN
 https://edge-hls.doppiocdn.live/hls/166319671/master/166319671.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SWEET WALLEN (ALT)
+https://edge5-gru.live.mmcdn.com/live-hls/amlst:sweet_wallen-sd-ffa0979c0a25901200b0218e29b1944f5fa7921c5b2fb4e05fffeeb8c050cbbc_trns_h264/chunklist_w1368499876_b448000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANDRIU TOMSON
 https://edge-hls.doppiocdn.live/hls/138191128/master/138191128.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", RAAMKING STAR
