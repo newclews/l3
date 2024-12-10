@@ -70,3 +70,5 @@ https://edge18-gru.live.mmcdn.com/live-hls/amlst:blackhots_guys-sd-3aa483d869a3e
 https://edge4-gru.live.mmcdn.com/live-hls/amlst:twinkyno-sd-fbca5069f3bde686a7e136813ca8130004fdcdc5a3174557ae30e62161936ef9_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BUBBLES1
 https://edge6-bog.live.mmcdn.com/live-hls/amlst:bubbles1_-sd-bd42a3ed624ceb7877eccb2dab87f36837cc8624e3b4ca4eb1025989c222126c_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANDY DAN1
+https://edge16-gru.live.mmcdn.com/live-hls/amlst:andy_dan1-sd-30d281117061cccd151e208bf3d5e0e6171715ae70a42ea5fe1cf73158751d1b_trns_h264/playlist.m3u8
