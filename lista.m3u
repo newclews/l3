@@ -29,7 +29,7 @@ https://edge-hls.doppiocdn.live/hls/41564101/master/41564101.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SWEET WALLEN
 https://edge-hls.doppiocdn.live/hls/166319671/master/166319671.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SWEET WALLEN (ALT)
-https://edge5-gru.live.mmcdn.com/live-hls/amlst:sweet_wallen-sd-ffa0979c0a25901200b0218e29b1944f5fa7921c5b2fb4e05fffeeb8c050cbbc_trns_h264/chunklist_w1368499876_b448000_t64RlBTOjMwLjA=.m3u8
+https://edge5-gru.live.mmcdn.com/live-hls/amlst:sweet_wallen-sd-ffa0979c0a25901200b0218e29b1944f5fa7921c5b2fb4e05fffeeb8c050cbbc_trns_h264/chunklist_w1368499876_b3096000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANDRIU TOMSON
 https://edge-hls.doppiocdn.live/hls/138191128/master/138191128.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", RAAMKING STAR
@@ -68,6 +68,8 @@ https://edge12-gru.live.mmcdn.com/live-hls/amlst:sweety_christopher-sd-b03c8b156
 https://edge9-gru.live.mmcdn.com/live-hls/amlst:masters_sexx-sd-e31ba30d6070c74c1676a29adf205fc92cff6e12f6b9e200ea74c2599d79fbe8_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BLACKHOTS GUYS
 https://edge18-gru.live.mmcdn.com/live-hls/amlst:blackhots_guys-sd-3aa483d869a3e56717cf93a99c6505683beed4e080f9fba8929def57caa820ac_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BLACKHOTS GUYS (ALT)
+https://edge10-bog.live.mmcdn.com/live-hls/amlst:blackhots_guys-sd-7e5745ad5cd6482765a530cd415810fac8d0b9e8923f465738d21fc0539b0f85_trns_h264/chunklist_w305834290_b2796000_t64RlBTOjI5Ljk3MDAyOTk3MDAyOTk3.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TWINKYNO
 https://edge4-gru.live.mmcdn.com/live-hls/amlst:twinkyno-sd-fbca5069f3bde686a7e136813ca8130004fdcdc5a3174557ae30e62161936ef9_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BUBBLES1
