@@ -7,7 +7,7 @@ https://edge-hls.doppiocdn.live/hls/152176258/master/152176258.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KLAUS SUNRISE
 https://edge-hls.doppiocdn.live/hls/171573268/master/171573268.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYSGANG SEX
-https://edge-hls.doppiocdn.live/hls/118113567/master/118113567.m3u8
+https://edge8-gru.live.mmcdn.com/live-hls/amlst:boysgang_sex-sd-48972938bd41311f27a0fabb1f77d1b848520f1055778b3eb80f643bbd4dd45e_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", STRAWWBOYS
 https://edge-hls.doppiocdn.live/hls/173264884/master/173264884.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HIHI0169
@@ -58,3 +58,13 @@ https://edge-hls.doppiocdn.live/hls/109044929/master/109044929.m3u8
 https://edge-hls.doppiocdn.live/hls/177098068/master/177098068.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SKINNYBOY
 https://edge-hls.doppiocdn.live/hls/160249326/master/160249326.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LEWIS RODRIGUEZ
+https://edge4-bog.live.mmcdn.com/live-hls/amlst:lewis_rodriguez-sd-1b5da059eb192123cdc4b917cf9cd9bf8bbf88dbd8806db0db8587f4266026d2_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SWEETY CHRISTOPHER
+https://edge12-gru.live.mmcdn.com/live-hls/amlst:sweety_christopher-sd-b03c8b156a4b79d90014b27951558cfb2e1fd934d0ae000d22c42f6b0624cf8b_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MASTERS SEXX
+https://edge9-gru.live.mmcdn.com/live-hls/amlst:masters_sexx-sd-e31ba30d6070c74c1676a29adf205fc92cff6e12f6b9e200ea74c2599d79fbe8_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BLACKHOTS GUYS
+https://edge18-gru.live.mmcdn.com/live-hls/amlst:blackhots_guys-sd-3aa483d869a3e56717cf93a99c6505683beed4e080f9fba8929def57caa820ac_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TWINKYNO
+https://edge4-gru.live.mmcdn.com/live-hls/amlst:twinkyno-sd-fbca5069f3bde686a7e136813ca8130004fdcdc5a3174557ae30e62161936ef9_trns_h264/playlist.m3u8
