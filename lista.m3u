@@ -128,3 +128,7 @@ https://edge16-gru.live.mmcdn.com/live-hls/amlst:flyckerx-sd-bcce977cfe505ee1f8d
 https://edge9-gru.live.mmcdn.com/live-hls/amlst:boys_hotparty-sd-9834a7fbe2077eb283398e86d06f67977c00ce56c2fc3ba6e6b1bff41452f810_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BORANGET
 https://edge4-bog.live.mmcdn.com/live-hls/amlst:boranget-sd-f949fd2888408521701eb20251c557e5e1d3c6953bc0bc4b8f631647d2055155_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE BOYS WORLD
+https://edge-hls.doppiocdn.live/hls/174004110/master/174004110.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYS YOURPARTY
+https://edge-hls.doppiocdn.live/hls/172354104/master/172354104.m3u8
