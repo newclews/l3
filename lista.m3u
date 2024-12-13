@@ -132,3 +132,9 @@ https://edge4-bog.live.mmcdn.com/live-hls/amlst:boranget-sd-f949fd2888408521701e
 https://edge-hls.doppiocdn.live/hls/174004110/master/174004110.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYS YOURPARTY
 https://edge-hls.doppiocdn.live/hls/172354104/master/172354104.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MARCUSSMITHX
+https://edge8-gru.live.mmcdn.com/live-hls/amlst:marcussmithx-sd-447dc9cd241fcb14c951d295877769c7844f38e14f0b11a2f475fbfc0c57a775_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ASMODEUS7100
+https://edge11-bog.live.mmcdn.com/live-hls/amlst:asmodeus7100-sd-32083aa018cad04763d2ec3ab83dd2a91ce1e7150b0bdc360af54aeba842dff1_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MIGUEYALEJO SWEETSEX
+https://edge9-gru.live.mmcdn.com/live-hls/amlst:migueyalejo_sweetsex-sd-49ac159c8bf811ff8e61f7df305f748e2d504ffe035341ef45971e48b893679f_trns_h264/playlist.m3u8
