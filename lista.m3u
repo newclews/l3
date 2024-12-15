@@ -154,3 +154,7 @@ https://edge1-bog.live.mmcdn.com/live-hls/amlst:emilicollinss-sd-c84026061ea1bd5
 https://edge11-mia.live.mmcdn.com/live-hls/amlst:guyexedlo-sd-98b75afbe754746aef8b21177993e9c8e2dc1e08be860a9105c74a5553139f38_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GOLD MEMBER 69
 https://edge1-bog.live.mmcdn.com/live-hls/amlst:gold_member_69-sd-650dc92ad3c3bb0aafe0bca668b78744ca961198adcd427c6ce80e1a0d4b2a23_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE GOODFELLAS
+https://edge5-gru.live.mmcdn.com/live-hls/amlst:the_goodfellas-sd-c7edc01152a57c9277582ff4003f08656a47f2c6bea2c133db2cf6a0735ba424_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HOWENTS
+https://edge2-gru.live.mmcdn.com/live-hls/amlst:howents-sd-c055079e89ebd7cdac438c8d2b945488b31af18cb9991d4755fe8ea2bc3129b2_trns_h264/playlist.m3u8
