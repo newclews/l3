@@ -1,4 +1,37 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SPECTRUM CHANNEL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
-http://xc.adultiptv.net/get.php?username=PAIMAICO&password=PAI39293038MAICO&type=m3u_plus
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ICEVERMILK
+https://edge1-gru.live.mmcdn.com/live-hls/amlst:icevermilk-sd-20b162200ed2b665c3d34173d109914d4f90b71b1e1fb2616b32b1f725be850f_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FYOTTY
+https://edge13-gru.live.mmcdn.com/live-hls/amlst:fyotty-sd-8dd01330a8e05f4c08cc5cfb54dfb56f992ad6147efac9d8ca4bbd75cbc8bcae_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THESUPERCUMX
+https://edge6-gru.live.mmcdn.com/live-hls/amlst:thesupercumx-sd-165472474fd3db8015e13a65f2656001697fa4fd6ac957fc16503366513e74a1_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", OWEN MCCARTHY
+https://edge2-gru.live.mmcdn.com/live-hls/amlst:owen_mccarthy-sd-3677d85773092d4320cd633c7d8909f1ba83f7cc3c1b296d81d35395449105ca_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ASIANHUNTINGBIGCOCK
+https://edge13-gru.live.mmcdn.com/live-hls/amlst:asianhuntingbigcock-sd-88793c46f9e04c6f4186d3daf7d711063a563b41297ec9b9fefd39d55e0316a1_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SUP MASTER
+https://edge16-gru.live.mmcdn.com/live-hls/amlst:sup_master-sd-e1188b8e5839fad5b446664fb6a14857308962ca84767ef1b1ba7b5fff8b93f9_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYS HOTPARTY
+https://edge11-bog.live.mmcdn.com/live-hls/amlst:boys_hotparty-sd-07fa627a89b87cd941093527635136fe574c366098a6af7a996d9ee817adb888_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ALEXISGO 99
+https://edge10-mia.live.mmcdn.com/live-hls/amlst:alexisgo_99-sd-5ed397c07b6499842ff65d3438462c47edfc93ab69d881522ac2e75ee9ecbb67_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KAM LATIN
+https://edge5-gru.live.mmcdn.com/live-hls/amlst:kam_latin_-sd-b33b17fe3ba7ce84d4cc86b103aec0b228b6bfd7418b49c0e5f7cad9a69d0b87_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JEFFRY WOLVES
+https://edge17-gru.live.mmcdn.com/live-hls/amlst:jeffry_wolves-sd-4d8d4175d3ed53c293ce02228ca56154e03f30d706728bdffc60f50c1dcf8c7b_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", PAULO HOTT
+https://edge2-gru.live.mmcdn.com/live-hls/amlst:paulo_hott-sd-56a5da5cedaf52a2d027f98b8656179515117fb5c7f7610cd55f103714007015_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DEREECK14
+https://edge4-bog.live.mmcdn.com/live-hls/amlst:dereeck14-sd-1dbc01ec6a74c55eb58c22429d643e1e2adcc78716d409041ea32a250d4dd95f_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", Y0UNG MASTER
+https://edge10-bog.live.mmcdn.com/live-hls/amlst:y0ung_master_-sd-1d868bf5da12a4103abb0ecfa315558f70d5720c2703883f0d61ae9d2a0c7333_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", URASIANBIGCOCKX16
+https://edge4-bog.live.mmcdn.com/live-hls/amlst:urasianbigcockx16-sd-a4e205de2c53cf0547ecfaa43b2b45166a6cca4bc9c3fb3036fb190ce73528fa_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAN SAN11
+https://edge11-bog.live.mmcdn.com/live-hls/amlst:man_san11-sd-33a875894e46a158e3f3e68df9cfeda459cbd3729aa63ea3539e25ce2dc4f6a6_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", L4O FOXX
+https://edge10-mia.live.mmcdn.com/live-hls/amlst:l4o_foxx-sd-adda30338085020a25259c9cb00dda654c7c077d3a79a0f72fbec11727b69941_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DADY SHOW69
+https://edge5-mia.live.mmcdn.com/live-hls/amlst:dady_show69-sd-8070c0809c8a986389705d80157869966e5f20b7c717b49d12e44092c32c5e0e_trns_h264/playlist.m3u8
