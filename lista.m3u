@@ -75,3 +75,5 @@ https://edge9-gru.live.mmcdn.com/live-hls/amlst:andrew_kamy-sd-51f90e614684622ee
 https://edge5-mia.live.mmcdn.com/live-hls/amlst:sweetxbig-sd-30898139674438cc3aec5855419af06cb3069f347f5eee8ab2cd6ce3bee9c3f9_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", AMANCAY
 https://edge6-gru.live.mmcdn.com/live-hls/amlst:amancay_-sd-09d1c0f8468cbac8d00a9ab4e4022408ec7f8f467e3c41c31d980a2f77ab429f_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", PACHO STORMIE
+https://edge6-gru.live.mmcdn.com/live-hls/amlst:pacho_stormie-sd-d27c7a551d288a3a6ec11d2c06129710e041d4eca2e221204e50548e9ba3b65d_trns_h264/playlist.m3u8
