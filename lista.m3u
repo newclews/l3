@@ -13,6 +13,8 @@ https://edge15-gru.live.mmcdn.com/live-hls/amlst:sweet_wallen-sd-be8e698c7cf78b3
 https://edge2-gru.live.mmcdn.com/live-hls/amlst:owen_mccarthy-sd-3677d85773092d4320cd633c7d8909f1ba83f7cc3c1b296d81d35395449105ca_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ALEX AND FABIAN
 https://edge1-bog.live.mmcdn.com/live-hls/amlst:alex_and_fabian-sd-1b2a6bcff6a97cd27c6ce0ec6a8416a61a7d35ef250df4528f212aff728d4e45_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", AMANCAY
+https://edge6-gru.live.mmcdn.com/live-hls/amlst:amancay_-sd-09d1c0f8468cbac8d00a9ab4e4022408ec7f8f467e3c41c31d980a2f77ab429f_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOICUTE
 https://edge12-gru.live.mmcdn.com/live-hls/amlst:boicute-sd-4e41b7ca829ec68630bd316c4b767cffc82b7fc4b89fd749057bf2a4c4a915ee_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DEYIAN
@@ -47,7 +49,29 @@ https://edge5-mia.live.mmcdn.com/live-hls/amlst:dady_show69-sd-8070c0809c8a98638
 https://edge3-bog.live.mmcdn.com/live-hls/amlst:blackpanther_king-sd-a4ad78faf23e3e2042729135adf06bbf28432d451538dfe0a156e8d34e7f80cc_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ZINCKY
 https://edge5-gru.live.mmcdn.com/live-hls/amlst:zincky-sd-8a965814d23973f333f7ec83d42e5d818beb729d4ad735e29fc48eb4fea849d8_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SAMUELCONNERY
+https://edge1-gru.live.mmcdn.com/live-hls/amlst:samuelconnery-sd-98eb40ba9bd6628e26a37cdc338a412c66f58661dcd2220f38282841295bd0bc_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BIANCAAA07
 https://edge18-gru.live.mmcdn.com/live-hls/amlst:biancaaa07-sd-eeb753b954887eb742d5d35ea3615e07b17f65d99becd5103e18dd905a5262cc_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", WET DREAMM22
 https://edge11-gru.live.mmcdn.com/live-hls/amlst:wet_dreamm22-sd-72cb251d8518f5a4fd699081a3f3df0b3af365535d378a11439b958b120c22c0_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LITTLE BITCH42
+https://edge9-gru.live.mmcdn.com/live-hls/amlst:little_bitch42-sd-90e9e3edc56c4b5f30ef91ae2e7ecadcb9fc582fa8f1c2a5c2653928b5fec429_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", POLYLOVE18
+https://edge3-bog.live.mmcdn.com/live-hls/amlst:polylove18-sd-473b2b7764fad6478f75afa7f7f055d5617619e062d9640cca7ab3ac14bbb673_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", YUMMYBABES
+https://edge11-bog.live.mmcdn.com/live-hls/amlst:_yummybabes_-sd-fac28c0fce3b6e8ac90cd35dc9bee12732ae94b7e1778676f9e325b81f487362_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TWOGIRLS2BOYS
+https://edge1-gru.live.mmcdn.com/live-hls/amlst:twogirls2boys-sd-0dfeaf333721bef9b5ceaed8d6b58f157a33b4fce0b0615cd5f0b033a3700e77_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EUPHORIARUSH
+https://edge11-mia.live.mmcdn.com/live-hls/amlst:euphoriarush-sd-dd28d1c0e4f628c713dffcdf20aacb322ecef8b6b4d0460ef083633afda40b1c_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JHON CRISTAL MARA
+https://edge18-gru.live.mmcdn.com/live-hls/amlst:jhon_cristal_mara-sd-8d24650e6e264aa2f966108e8cf158e9882d99b5a18c38477d640ca2c9235dc7_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ZURI BLAKE
+https://edge1-gru.live.mmcdn.com/live-hls/amlst:zuri_blake-sd-422fbac9ca847749fb26be20aa4fd99e4739fa1beef127baf101fee5515a9835_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LADY BERI X
+https://edge8-mia.live.mmcdn.com/live-hls/amlst:lady_beri_x-sd-6042023abf37167460b9255d83c393b66418191369275d0ccda3f9fd6f622217_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANDREW KAMY
+https://edge9-gru.live.mmcdn.com/live-hls/amlst:andrew_kamy-sd-51f90e614684622eead69a03dd7a6cd7ce317d00b76aec6e8764b4aa03c5eeb3_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SWEETXBIG
+https://edge5-mia.live.mmcdn.com/live-hls/amlst:sweetxbig-sd-30898139674438cc3aec5855419af06cb3069f347f5eee8ab2cd6ce3bee9c3f9_trns_h264/playlist.m3u8
