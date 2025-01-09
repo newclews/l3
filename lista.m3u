@@ -37,6 +37,12 @@ EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Origi
 https://edge-hls.doppiocdn.live/hls/174004110/master/174004110.m3u8?playlistType=lowLatency
 EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SEXYSWEET PARTY
 https://edge-hls.doppiocdn.live/hls/181864592/master/181864592.m3u8?playlistType=lowLatency
+EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE INSANE
+https://edge-hls.doppiocdn.live/hls/182973963/master/182973963.m3u8?playlistType=lowLatency
+EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JACK CARRINGTON
+https://edge1-gru.live.mmcdn.com/live-hls/amlst:jack_carrington-sd-eefc0c6c74e192edc2d8ac0dcbfd1b38c63edbeda89cd3c615cc55426f87effc_trns_h264/playlist.m3u8
+EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BRIX DAVEN
+https://edge4-gru.live.mmcdn.com/live-hls/amlst:brix_daven-sd-bef2cf45def456d6cf3c8be7efc79ef71e958a05f1514a764b7d4ed2920e8205_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FYOTTY
 https://edge13-gru.live.mmcdn.com/live-hls/amlst:fyotty-sd-8dd01330a8e05f4c08cc5cfb54dfb56f992ad6147efac9d8ca4bbd75cbc8bcae_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THESUPERCUMX
@@ -111,6 +117,8 @@ https://edge-hls.doppiocdn.live/hls/181854193/master/181854193.m3u8?playlistType
 https://edge-hls.doppiocdn.live/hls/180351606/master/180351606.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JOSEP DAVIES
 https://edge-hls.doppiocdn.live/hls/132406731/master/132406731.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JEREMY SALVATORE
+https://edge15-gru.live.mmcdn.com/live-hls/amlst:jeremy_salvatore_-sd-82dcdb5d814704b7ad01c2a9bf40955a9152ed4cd24d138f745e80eb03ee8484_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BIANCAAA07
 https://edge18-gru.live.mmcdn.com/live-hls/amlst:biancaaa07-sd-eeb753b954887eb742d5d35ea3615e07b17f65d99becd5103e18dd905a5262cc_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", WET DREAMM22
