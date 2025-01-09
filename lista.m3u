@@ -167,6 +167,8 @@ https://edge-hls.doppiocdn.live/hls/152880368/master/152880368.m3u8?playlistType
 https://edge7-mia.live.mmcdn.com/live-hls/amlst:tattoed_levi-sd-db22acce3e884ee35e52f8533d8d3e35a9bc3b26acbabce7bc22c8a06f2435ca_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ACE SEXY ACE
 https://edge14-gru.live.mmcdn.com/live-hls/amlst:ace_sexy_ace-sd-ab439759a103e55f7ef5bcff680086fc3dc2337bcc1d2a40439d825910fe620d_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAXIMUSS 19
+https://edge9-gru.live.mmcdn.com/live-hls/amlst:maximuss_19-sd-99ed445b58389d6144417c24c7ffcd67d3bc0eb2fb08ebac31d9d969bf2cf75a_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BIANCAAA07
 https://edge18-gru.live.mmcdn.com/live-hls/amlst:biancaaa07-sd-eeb753b954887eb742d5d35ea3615e07b17f65d99becd5103e18dd905a5262cc_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", XALICEFANTASYX
