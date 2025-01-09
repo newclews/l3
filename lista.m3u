@@ -25,6 +25,8 @@ https://edge-hls.doppiocdn.live/hls/184434720/master/184434720.m3u8?playlistType
 https://edge-hls.doppiocdn.live/hls/168309485/master/168309485.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MICHAEL TWINK
 https://edge-hls.doppiocdn.live/hls/174449844/master/174449844.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERS
+https://edge6-bog.live.mmcdn.com/live-hls/amlst:flyckers-sd-770ffc32072a2944c941cb66c1c4c90d01114a64c2bf243773fc3abd13740b46_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EUPHORIABOYS
 https://edge-hls.doppiocdn.live/hls/78466511/master/78466511.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGHELYTOS
