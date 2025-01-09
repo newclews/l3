@@ -271,3 +271,5 @@ https://edge4-gru.live.mmcdn.com/live-hls/amlst:skinny_candy18-sd-1bcbdc23a73bac
 https://edge16-gru.live.mmcdn.com/live-hls/amlst:thegobletoffire-sd-48eaf68ffd3f583e56851770cc0b4b15590e8ca933857c6e5c23b7d084f6fd47_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", NOT LIMITS HARDCORE
 https://edge-hls.doppiocdn.live/hls/139881652/master/139881652.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TESTE
+https://hls.vscdns.com/manifest.m3u8?key=f126c33ae7a12686d46ce335f974f41c&provider=cdn5&model_id=1260353&variant=720
