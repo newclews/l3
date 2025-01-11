@@ -339,5 +339,11 @@ https://edge-hls.doppiocdn.live/hls/174653416/master/174653416.m3u8?playlistType
 https://edge-hls.doppiocdn.live/hls/181390748/master/181390748.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", AMAZINGPARTYS
 https://edge-hls.doppiocdn.live/hls/34357879/master/34357879.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTREME TEAM8
+https://edge-hls.doppiocdn.live/hls/130411908/master/130411908.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MYSTICSEDUCTION
+https://edge-hls.doppiocdn.live/hls/185404387/master/185404387.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", NAMY 18
+https://edge-hls.doppiocdn.live/hls/131799139/master/131799139.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TESTE
 https://hls.vscdns.com/manifest.m3u8?key=f126c33ae7a12686d46ce335f974f41c&provider=cdn5&model_id=1260353&variant=720
