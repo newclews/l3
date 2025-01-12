@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SPECTRUM CHANNEL
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE GOODFELLAS
+https://edge4-bog.live.mmcdn.com/live-hls/amlst:the_goodfellas-sd-de0febda7254362f8db6da90584f643fb3b1c11207279ff0627b6827383f5286_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ICEVERMILK
 https://edge1-gru.live.mmcdn.com/live-hls/amlst:icevermilk-sd-20b162200ed2b665c3d34173d109914d4f90b71b1e1fb2616b32b1f725be850f_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SKINNY BOYS18
 https://edge16-gru.live.mmcdn.com/live-hls/amlst:skinnyx_boys18-sd-efe4adec9ea89d5b00467943797beeffafdebaf73cf1db801d40fc485a702992_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SEBAS HOTXXX18
 https://edge-hls.doppiocdn.live/hls/175433912/master/175433912.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ALEXANDER AND XIAO
+https://edge5-bog.live.mmcdn.com/live-hls/amlst:alexander_and_xiao-sd-00f57efa75690b0087be87947f3a155f08406dc5af39523ef1a2b3d11b049697_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GRIVALS
 https://edge8-gru.live.mmcdn.com/live-hls/amlst:grivals-sd-e5e664088a9da7cf7ef41e065067a406199218fe7769cc3ff8251edad66d2de6_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SIMON AND DAVID
@@ -17,6 +19,8 @@ https://edge5-gru.live.mmcdn.com/live-hls/amlst:alexandluke-sd-bebe6a932b677be7a
 https://edge12-gru.live.mmcdn.com/live-hls/amlst:bigmaxd1ck-sd-8bead35151f11be70fa62bfb33584edd7ac4a89e6be2eab1e1251b95451c0f3f_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", PELUSOS MENS
 https://edge-hls.doppiocdn.live/hls/81398883/master/81398883.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE BOYS HELL
+https://b-hls-14.doppiocdn.live/hls/182079138/182079138.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGELO DUARTE
 https://edge8-gru.live.mmcdn.com/live-hls/amlst:angelo_duarte-sd-22f1506796bed9dc27ddbebcb73f759fff34f39a159c690d4c79690e177c78de_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FROTLOOPS
@@ -27,6 +31,8 @@ https://edge18-gru.live.mmcdn.com/live-hls/amlst:_side_by_you_-sd-9ddebecbc1e95e
 https://edge-hls.doppiocdn.live/hls/156405642/master/156405642.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BADSSBOYS ALWAYS
 https://edge-hls.doppiocdn.live/hls/172776482/master/172776482.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SIMON BANE01
+https://edge15-gru.live.mmcdn.com/live-hls/amlst:simon_bane01-sd-5402ea504252c1ca30e2bd5d8f79b1e00854c21985e74d268b82052ce979ab17_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LITTLE MORBID
 https://edge-hls.doppiocdn.live/hls/137612537/master/137612537.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYSWANNA FUCK
@@ -133,8 +139,6 @@ https://edge10-bog.live.mmcdn.com/live-hls/amlst:y0ung_master_-sd-1d868bf5da12a4
 https://edge4-bog.live.mmcdn.com/live-hls/amlst:urasianbigcockx16-sd-a4e205de2c53cf0547ecfaa43b2b45166a6cca4bc9c3fb3036fb190ce73528fa_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAN SAN11
 https://edge11-bog.live.mmcdn.com/live-hls/amlst:man_san11-sd-33a875894e46a158e3f3e68df9cfeda459cbd3729aa63ea3539e25ce2dc4f6a6_trns_h264/playlist.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", L4O FOXX
-https://edge10-mia.live.mmcdn.com/live-hls/amlst:l4o_foxx-sd-adda30338085020a25259c9cb00dda654c7c077d3a79a0f72fbec11727b69941_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DADY SHOW69
 https://edge5-mia.live.mmcdn.com/live-hls/amlst:dady_show69-sd-8070c0809c8a986389705d80157869966e5f20b7c717b49d12e44092c32c5e0e_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BLACKPANTHER KING
@@ -221,6 +225,10 @@ https://edge5-gru.live.mmcdn.com/live-hls/amlst:asiantwink_brix-sd-508ecffbd7467
 https://edge16-mia.live.mmcdn.com/live-hls/amlst:kevinhoo_-sd-171a05dbf27a428550fbb1de8a584cac947f329159c0da52fe1b4066f37f3000_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DARK ANGEL69X
 https://edge7-bog.live.mmcdn.com/live-hls/amlst:dark_angel69x-sd-f1da8178afb6d02ddb826c907b43c81a82f29869ff38b750a77b45a2283962e3_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", L4O FOXX
+https://edge10-mia.live.mmcdn.com/live-hls/amlst:l4o_foxx-sd-adda30338085020a25259c9cb00dda654c7c077d3a79a0f72fbec11727b69941_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KEITA MOON
+https://edge17-gru.live.mmcdn.com/live-hls/amlst:keita_moon-sd-5fb9dfc0a0e95d8d86c94bd0c0d66128ee16dc6285bd4bf2f3e66742f7f1eb88_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HIHI0169
 https://edge-hls.doppiocdn.live/hls/108560022/master/108560022.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BIANCAAA07
@@ -341,6 +349,8 @@ https://edge-hls.doppiocdn.live/hls/181390748/master/181390748.m3u8?playlistType
 https://edge-hls.doppiocdn.live/hls/34357879/master/34357879.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTREME TEAM8
 https://edge-hls.doppiocdn.live/hls/130411908/master/130411908.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTREME DIRTY PARADISE
+https://edge-hls.doppiocdn.live/hls/150508219/master/150508219.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MYSTICSEDUCTION
 https://edge-hls.doppiocdn.live/hls/185404387/master/185404387.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", NAMY 18
