@@ -11,6 +11,8 @@ https://edge-hls.doppiocdn.live/hls/175433912/master/175433912.m3u8?playlistType
 https://edge11-gru.live.mmcdn.com/live-hls/amlst:latino_hott21-sd-c7abb0cb5738be31a3ae52104721357a4d063132561f2c4d77bd5c34116f933e_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAXIMOANDDYLAN
 https://b-hls-19.doppiocdn.live/hls/186211426/186211426.m3u8?playlistType=lowLatency
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYS4HOT 777
+https://edge11-bog.live.mmcdn.com/live-hls/amlst:boys4hot_777-sd-48809ed8e44518a678b4ff8799d85f9eeb4784aea30df67ec8a76dab29a6b785_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOYSGANG SEX
 https://edge-hls.doppiocdn.live/hls/118113567/master/118113567.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ALEXANDER AND XIAO
@@ -151,8 +153,10 @@ https://edge11-bog.live.mmcdn.com/live-hls/amlst:boys_hotparty-sd-07fa627a89b87c
 https://edge10-mia.live.mmcdn.com/live-hls/amlst:alexisgo_99-sd-5ed397c07b6499842ff65d3438462c47edfc93ab69d881522ac2e75ee9ecbb67_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KAM LATIN
 https://edge5-gru.live.mmcdn.com/live-hls/amlst:kam_latin_-sd-b33b17fe3ba7ce84d4cc86b103aec0b228b6bfd7418b49c0e5f7cad9a69d0b87_trns_h264/playlist.m3u8
-#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JEFFRY WOLVES
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JEFFRY WOLVESS
 https://edge17-gru.live.mmcdn.com/live-hls/amlst:jeffry_wolves-sd-4d8d4175d3ed53c293ce02228ca56154e03f30d706728bdffc60f50c1dcf8c7b_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", JEFFRY WOLVESS (ALT)
+https://edge-hls.doppiocdn.live/hls/180660155/master/180660155.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", PAULO HOTT
 https://edge2-gru.live.mmcdn.com/live-hls/amlst:paulo_hott-sd-56a5da5cedaf52a2d027f98b8656179515117fb5c7f7610cd55f103714007015_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DEREECK14
