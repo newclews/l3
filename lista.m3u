@@ -273,6 +273,8 @@ https://edge17-gru.live.mmcdn.com/live-hls/amlst:alan18n-sd-879b308b15cb4a738757
 https://b-hls-26.doppiocdn.live/hls/129238977/129238977.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAXT
 https://adultiptv.net/livecams/stream.php?id=sc_186370867
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BUNNYXHUNNY
+https://adultiptv.net/livecams/stream.php?id=cb_bunnyxhunny
 https://edge-hls.doppiocdn.live/hls/186370867/master/186370867.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ALEXIS SPECTER
 https://adultiptv.net/livecams/stream.php?id=cb_alexis_specter
