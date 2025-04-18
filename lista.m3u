@@ -549,6 +549,8 @@ https://adultiptv.net/livecams/stream.php?id=sc_167720292
 https://adultiptv.net/livecams/stream.php?id=sc_132844775
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HONEYMEGAN
 https://adultiptv.net/livecams/stream.php?id=sc_182402741
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ICEVERMILK
+https://edge5-gru.live.mmcdn.com/live-hls/amlst:icevermilk-sd-5e89d88df00d3b1cfef05d47d8c4cbfb63656c9b43cbef88ed84b53ca550ac2f_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERX
 https://edge9-gru.live.mmcdn.com/live-hls/amlst:flyckerx-sd-f10e8212cd17ddd157866ff71a8962890dd0331f037af1078865da376a534e39_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERS
