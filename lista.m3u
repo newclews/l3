@@ -591,6 +591,8 @@ https://edge9-gru.live.mmcdn.com/live-hls/amlst:backyardigans-sd-9534c5f62894397
 https://edge6-bog.live.mmcdn.com/live-hls/amlst:frotloops-sd-1faf121508b1ed63c09322127f4422b481e88aa54ebb515282c19b5676ea5215_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE GOODFELLAS
 https://edge12-gru.live.mmcdn.com/live-hls/amlst:the_goodfellas-sd-3d200697b42a78e4507b18cafc415bb0436d98b53c831fe73b964a34b20ff155_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HTO GANG
+https://cdn-3.nxplay.com.br/HTO_GANG/index.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 01
 http://15.235.9.200:14778
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 02
