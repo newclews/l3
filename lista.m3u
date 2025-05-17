@@ -596,16 +596,34 @@ https://cdn-3.nxplay.com.br/HTO_GANG/index.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HTO MYLF
 https://cdn-3.nxplay.com.br/HTO_MYLF/index.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 01
-http://15.235.9.200:14778
+http://15.235.9.200:14770
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 02
-http://15.235.9.200:14779
+http://15.235.9.200:14771
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 03
-http://15.235.9.200:14780
+http://15.235.9.200:14772
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 04
-http://15.235.9.200:14781
+http://15.235.9.200:14773
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 05
-http://15.235.9.200:14782
+http://15.235.9.200:14774
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 06
-http://15.235.9.200:14783
+http://15.235.9.200:14775
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 07
+http://15.235.9.200:14776
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 08
+http://15.235.9.200:14777
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 09
+http://d029dcec.kazmazpaz.ru/iptv/EBUCGK992DRF6L/6245/manifest.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 01
+http://15.235.9.200:14778
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 02
+http://15.235.9.200:14779
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 03
+http://15.235.9.200:14780
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 04
+http://15.235.9.200:14781
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 05
+http://15.235.9.200:14782
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 06
+http://15.235.9.200:14783
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 07
 http://15.235.9.200:14784
