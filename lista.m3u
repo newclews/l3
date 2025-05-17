@@ -613,6 +613,10 @@ http://15.235.9.200:14776
 http://15.235.9.200:14777
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 09
 http://d029dcec.kazmazpaz.ru/iptv/EBUCGK992DRF6L/6245/manifest.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 10
+http://d029dcec.kazmazpaz.ru/iptv/EBUCGK992DRF6L/6164/manifest.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 11
+http://d029dcec.kazmazpaz.ru/iptv/EBUCGK992DRF6L/6165/manifest.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 01
 http://15.235.9.200:14778
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 02
