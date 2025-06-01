@@ -65,6 +65,8 @@ https://adultiptv.net/livecams/stream.php?id=sc_195808942
 https://adultiptv.net/livecams/stream.php?id=sc_78466511
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ZONEBOYS
 https://adultiptv.net/livecams/stream.php?id=sc_195671802
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BOY PERFECT
+https://edge-hls.doppiocdn.org/hls/191995014/master/191995014.m3u8?playlistType=lowLatency
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", AMAZING WALLEN
 https://adultiptv.net/livecams/stream.php?id=sc_198289646
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", TEAM WALLEN
