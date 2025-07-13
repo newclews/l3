@@ -493,6 +493,8 @@ http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/96388/hls/pl.m3u8
 http://185.236.183.118:14629
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", SEXTREME
 http://185.236.183.118:14626
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VENUS
+http://185.236.183.118:14750
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 01
 http://15.235.9.200:14770
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VID 02
