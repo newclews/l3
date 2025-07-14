@@ -491,6 +491,12 @@ https://edge9-gru.live.mmcdn.com/live-hls/amlst:flyckerx-sd-f10e8212cd17ddd15786
 https://edge11-bog.live.mmcdn.com/live-hls/amlst:flyckers-sd-85377fb8fba4e5eceabf7b83284745d5c483b68d8afa753fc2b0b9aa67fdc865_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGHELYTOS
 https://edge4-bog.live.mmcdn.com/live-hls/amlst:anghelytos-sd-45112969df5144f79ba08bcd26ee415e9f33b48bd4d7cbf750356d29aab5b394_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE GOODFELLAS
+https://edge2-gru.live.mmcdn.com/live-hls/amlst:the_goodfellas-sd-3828a2be4e015dee12f8a3222bc483ab5f96cff20fb166d39b0a5752769c7550_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GOLDENJOI
+https://edge12-gru.live.mmcdn.com/live-hls/amlst:goldenjoi-sd-4da68b78d9abfa37c82277727a251cae08ccc6f5e822f18796a5f3fbc077ad2a_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ASMODEUS7100
+https://edge10-gru.live.mmcdn.com/live-hls/amlst:asmodeus7100-sd-2b6332ffd771642bb2d6e23a998ffee6bbba4f6b31f0fb22eb5bb44ac45f4bc1_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BACKYARDIGANS
 https://edge2-mia.live.mmcdn.com/live-hls/amlst:backyardigans-sd-287d878e36e1608f25fdf292ac23a787f49fded7d114023fe037145a86300b16_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FROTLOOPS
