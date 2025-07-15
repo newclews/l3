@@ -549,6 +549,8 @@ http://15.235.9.200:14783
 http://15.235.9.200:14784
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 08
 http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215464
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", VIDG 09
+http://149.18.45.187:8060/ljupcovel21/6473562675/401452348
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", XMO
 http://d029dcec.kazmazpaz.ru/iptv/NR7VUB57KMRXBD/6285/manifest.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LUCK248
