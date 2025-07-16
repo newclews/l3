@@ -529,6 +529,8 @@ https://edge2-mia.live.mmcdn.com/live-hls/amlst:backyardigans-sd-287d878e36e1608
 https://edge14-gru.live.mmcdn.com/live-hls/amlst:frotloops-sd-9398d04595dff8572c51b2f50bbd9f131e59225b000184c12daff2a644f57e4a_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", G4MENS
 https://edge11-bog.live.mmcdn.com/live-hls/amlst:g4mens-sd-79b4e774299891ae3f6a04d8ffdaee960261dce8cd448de425ace0167ca17231_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DAIQUIRIE
+https://edge11-bog.live.mmcdn.com/live-hls/amlst:daiquirie-sd-65579dae64f733b184da3edbe58b8f5de85e03e25ce45f0028ce94d2affbb67d_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EROLUXE FAKE TAXI
 http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/96297/hls/pl.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EROLUXE ORGY
