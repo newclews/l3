@@ -394,7 +394,7 @@ https://edge7-mia.live.mmcdn.com/live-hls/amlst:asmodeus7100-sd-f97ac296570e283c
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BACKYARDIGANS
 https://edge2-mia.live.mmcdn.com/live-hls/amlst:backyardigans-sd-287d878e36e1608f25fdf292ac23a787f49fded7d114023fe037145a86300b16_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FROTLOOPS
-https://edge14-gru.live.mmcdn.com/live-hls/amlst:frotloops-sd-9398d04595dff8572c51b2f50bbd9f131e59225b000184c12daff2a644f57e4a_trns_h264/playlist.m3u8
+https://edge10-bog.live.mmcdn.com/live-hls/amlst:frotloops-sd-fb921e5ea37ce4fd4028ea243d7d0bfc8142d7748aac021736bcbf5d747104c2_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", G4MENS
 https://edge16-gru.live.mmcdn.com/live-hls/amlst:g4mens-sd-57337e3ab2e9eb8ddf0ea7f9acd1b3f8b3ab6d6d39f4a6f866d8b291b7cd03d3_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DAIQUIRIE
