@@ -382,7 +382,7 @@ https://edge1-bog.live.mmcdn.com/live-hls/amlst:crismens-sd-bce08239df09f050e6e6
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERX
 https://edge9-gru.live.mmcdn.com/live-hls/amlst:flyckerx-sd-f10e8212cd17ddd157866ff71a8962890dd0331f037af1078865da376a534e39_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERS
-https://edge11-bog.live.mmcdn.com/live-hls/amlst:flyckers-sd-85377fb8fba4e5eceabf7b83284745d5c483b68d8afa753fc2b0b9aa67fdc865_trns_h264/playlist.m3u8
+https://edge17-gru.live.mmcdn.com/live-hls/amlst:flyckers-sd-03669954249fb89971742de07c01c1308a6a60515578667ab73a335d66a3932f_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGHELYTOS
 https://edge4-bog.live.mmcdn.com/live-hls/amlst:anghelytos-sd-45112969df5144f79ba08bcd26ee415e9f33b48bd4d7cbf750356d29aab5b394_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE GOODFELLAS
