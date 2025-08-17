@@ -376,7 +376,7 @@ https://edge5-gru.live.mmcdn.com/live-hls/amlst:icevermilk-sd-5e89d88df00d3b1cfe
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KOBAYASKE
 https://edge1-bog.live.mmcdn.com/live-hls/amlst:kobayaske-sd-470bd1f06c98581415e159fb0a770524364a73b3d2d289b85db351d447b6d37a_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BORANGET
-https://edge5-gru.live.mmcdn.com/live-hls/amlst:boranget-sd-a6ef4c53396d9adf81b0d0bcaeb438938491591d3bf86dec9056804d51462b65_trns_h264/playlist.m3u8
+https://edge13-gru.live.mmcdn.com/live-hls/amlst:boranget-sd-66624053608199124035a9ed936449e727e8938d2f684e5cbb0ff787f05b06ec_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CRISMENS
 https://edge1-bog.live.mmcdn.com/live-hls/amlst:crismens-sd-bce08239df09f050e6e60b7157a2a10be12b47d97613981ed5e08e049d848764_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERX
@@ -399,6 +399,10 @@ https://edge10-bog.live.mmcdn.com/live-hls/amlst:frotloops-sd-fb921e5ea37ce4fd40
 https://edge16-gru.live.mmcdn.com/live-hls/amlst:g4mens-sd-57337e3ab2e9eb8ddf0ea7f9acd1b3f8b3ab6d6d39f4a6f866d8b291b7cd03d3_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DAIQUIRIE
 https://edge11-bog.live.mmcdn.com/live-hls/amlst:daiquirie-sd-65579dae64f733b184da3edbe58b8f5de85e03e25ce45f0028ce94d2affbb67d_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FYOTTY
+https://edge9-gru.live.mmcdn.com/live-hls/amlst:fyotty-sd-a6039b574438f802a00e019d8167bba509341316028810eede7a61c96de77745_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BENZ BOYS
+https://edge10-bog.live.mmcdn.com/live-hls/amlst:benz_boys-sd-b877770f3fdfff50021f2e17f2b32d81d9d6ae012d6e7648b9ebf53a62f1c8d6_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EROLUXE FAKE TAXI
 http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/96297/hls/pl.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EROLUXE ORGY
