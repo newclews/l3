@@ -378,23 +378,23 @@ https://edge1-bog.live.mmcdn.com/live-hls/amlst:kobayaske-sd-470bd1f06c98581415e
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BORANGET
 https://edge13-gru.live.mmcdn.com/live-hls/amlst:boranget-sd-66624053608199124035a9ed936449e727e8938d2f684e5cbb0ff787f05b06ec_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CRISMENS
-https://edge1-bog.live.mmcdn.com/live-hls/amlst:crismens-sd-bce08239df09f050e6e60b7157a2a10be12b47d97613981ed5e08e049d848764_trns_h264/playlist.m3u8
+https://edge4-gru.live.mmcdn.com/live-hls/amlst:crismens-sd-55a758107e3994e47778a9af82e124b46daf409aea96cf10763e2e1f2d636107_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERX
 https://edge9-gru.live.mmcdn.com/live-hls/amlst:flyckerx-sd-f10e8212cd17ddd157866ff71a8962890dd0331f037af1078865da376a534e39_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERS
-https://edge17-gru.live.mmcdn.com/live-hls/amlst:flyckers-sd-03669954249fb89971742de07c01c1308a6a60515578667ab73a335d66a3932f_trns_h264/playlist.m3u8
+https://edge7-bog.live.mmcdn.com/live-hls/amlst:flyckers-sd-f7ec0336ec9501ee47b096eb808717580231ad87f37c660339069ee01d0f5c82_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGHELYTOS
 https://edge4-bog.live.mmcdn.com/live-hls/amlst:anghelytos-sd-45112969df5144f79ba08bcd26ee415e9f33b48bd4d7cbf750356d29aab5b394_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE GOODFELLAS
-https://edge10-bog.live.mmcdn.com/live-hls/amlst:the_goodfellas-sd-4537157a3240785700e586feaa513b6667ec435aa9981c9d49fa93ca084784b7_trns_h264/playlist.m3u8
+https://edge6-gru.live.mmcdn.com/live-hls/amlst:the_goodfellas-sd-5d97e92e6f667360847a11a2a2e83125b398d76a1c046aa54d2bdccf73b4f90e_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GOLDENJOI
 https://edge12-gru.live.mmcdn.com/live-hls/amlst:goldenjoi-sd-4da68b78d9abfa37c82277727a251cae08ccc6f5e822f18796a5f3fbc077ad2a_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ASMODEUS7100
-https://edge7-mia.live.mmcdn.com/live-hls/amlst:asmodeus7100-sd-f97ac296570e283cef3e81df0edf0712a21d58655b0c13d0c7af955fdd06d1e9_trns_h264/playlist.m3u8
+https://edge11-mia.live.mmcdn.com/live-hls/amlst:asmodeus7100-sd-fe1349f319b8ded1853a89e33c365f9861fff03063fc79203e97341c859a5aa4_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BACKYARDIGANS
 https://edge2-mia.live.mmcdn.com/live-hls/amlst:backyardigans-sd-287d878e36e1608f25fdf292ac23a787f49fded7d114023fe037145a86300b16_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FROTLOOPS
-https://edge10-bog.live.mmcdn.com/live-hls/amlst:frotloops-sd-fb921e5ea37ce4fd4028ea243d7d0bfc8142d7748aac021736bcbf5d747104c2_trns_h264/playlist.m3u8
+https://edge13-mia.live.mmcdn.com/live-hls/amlst:frotloops-sd-2dd4a2079eb66ef5ff07d94a28501b576ccbd1839ad660591be8b04c6043c4ca_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", G4MENS
 https://edge16-gru.live.mmcdn.com/live-hls/amlst:g4mens-sd-57337e3ab2e9eb8ddf0ea7f9acd1b3f8b3ab6d6d39f4a6f866d8b291b7cd03d3_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DAIQUIRIE
