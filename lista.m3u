@@ -442,7 +442,7 @@ https://edge7-bog.live.mmcdn.com/live-hls/amlst:flyckers-sd-f7ec0336ec9501ee47b0
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGHELYTOS
 https://edge4-bog.live.mmcdn.com/live-hls/amlst:anghelytos-sd-45112969df5144f79ba08bcd26ee415e9f33b48bd4d7cbf750356d29aab5b394_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE GOODFELLAS
-https://edge6-gru.live.mmcdn.com/live-hls/amlst:the_goodfellas-sd-5d97e92e6f667360847a11a2a2e83125b398d76a1c046aa54d2bdccf73b4f90e_trns_h264/playlist.m3u8
+https://edge5-gru.live.mmcdn.com/live-hls/amlst:the_goodfellas-sd-6fe00415ec733825f2073875f5b9e120e038fce489d8369f3d0af2f4a635f998_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GOLDENJOI
 https://edge12-gru.live.mmcdn.com/live-hls/amlst:goldenjoi-sd-4da68b78d9abfa37c82277727a251cae08ccc6f5e822f18796a5f3fbc077ad2a_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ASMODEUS7100
@@ -452,13 +452,17 @@ https://edge2-mia.live.mmcdn.com/live-hls/amlst:backyardigans-sd-287d878e36e1608
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FROTLOOPS
 https://edge13-mia.live.mmcdn.com/live-hls/amlst:frotloops-sd-2dd4a2079eb66ef5ff07d94a28501b576ccbd1839ad660591be8b04c6043c4ca_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", G4MENS
-https://edge16-gru.live.mmcdn.com/live-hls/amlst:g4mens-sd-57337e3ab2e9eb8ddf0ea7f9acd1b3f8b3ab6d6d39f4a6f866d8b291b7cd03d3_trns_h264/playlist.m3u8
+https://edge12-gru.live.mmcdn.com/live-hls/amlst:g4mens-sd-f593ee2762b00a7c799066207e80bf8c3c7a206d78323ba10a9ed05be2eb653d_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", DAIQUIRIE
 https://edge11-bog.live.mmcdn.com/live-hls/amlst:daiquirie-sd-65579dae64f733b184da3edbe58b8f5de85e03e25ce45f0028ce94d2affbb67d_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FYOTTY
 https://edge9-gru.live.mmcdn.com/live-hls/amlst:fyotty-sd-a6039b574438f802a00e019d8167bba509341316028810eede7a61c96de77745_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BENZ BOYS
 https://edge10-bog.live.mmcdn.com/live-hls/amlst:benz_boys-sd-b877770f3fdfff50021f2e17f2b32d81d9d6ae012d6e7648b9ebf53a62f1c8d6_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", EXTRANGERS
+https://edge10-gru.live.mmcdn.com/live-hls/amlst:extrangers-sd-cd991dba77a68688b5547c7e0ad735d2130f7264bc62743e2905a40aef1a64d7_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAXX DICK
+https://edge9-gru.live.mmcdn.com/live-hls/amlst:maxx_dick-sd-c11015eafcb0e0ae5bcb8c8647f9a2388cfad579c41b8682221e95cb284b3212_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LEO TV
 http://88b9da48.kazmazpaz.ru/iptv/PBPM6BS9YL9N39/6272/manifest.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BHOT
