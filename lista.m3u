@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CERUJOIS KOBAYASKE
 https://adultiptv.net/livecams/stream.php?id=c4_1470757
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", GNECOS
+https://edge10-gru.live.mmcdn.com/live-hls/amlst:gnecos-sd-738a173a4f46c5be6e85bcd603d05aa476e0b36642742688c2b55d7d23b4cbd4_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ICEVERMILK
 https://edge10-bog.live.mmcdn.com/live-hls/amlst:icevermilk-sd-10af1470eb10feceb1d54cc982da31c3b40239335c536f7dd5453e33aaf6bd02_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KOBAYASKE
@@ -8,11 +10,11 @@ https://edge1-bog.live.mmcdn.com/live-hls/amlst:kobayaske-sd-470bd1f06c98581415e
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BORANGET
 https://edge16-mia.live.mmcdn.com/live-hls/amlst:boranget-sd-789ccd11cb3e53e894e7b9aeffe2402d158fa614749ee1fd7177e712580411fc_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CRISMENS
-https://edge4-gru.live.mmcdn.com/live-hls/amlst:crismens-sd-55a758107e3994e47778a9af82e124b46daf409aea96cf10763e2e1f2d636107_trns_h264/playlist.m3u8
+https://edge6-bog.live.mmcdn.com/live-hls/amlst:crismens-sd-ff1cecc4922e9b1aa8b403b58d3fb6356982d4cc3123f1f52ada6a8998bc3ef7_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERX
 https://edge9-gru.live.mmcdn.com/live-hls/amlst:flyckerx-sd-f10e8212cd17ddd157866ff71a8962890dd0331f037af1078865da376a534e39_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERS
-https://edge7-bog.live.mmcdn.com/live-hls/amlst:flyckers-sd-f7ec0336ec9501ee47b096eb808717580231ad87f37c660339069ee01d0f5c82_trns_h264/playlist.m3u8
+https://edge7-bog.live.mmcdn.com/live-hls/amlst:flyckers-sd-0d9cec8e2b4bc89c7779a20755288e6e8d00c00f0b43dc9d93f67b4c6303a51f_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", ANGHELYTOS
 https://edge4-bog.live.mmcdn.com/live-hls/amlst:anghelytos-sd-45112969df5144f79ba08bcd26ee415e9f33b48bd4d7cbf750356d29aab5b394_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", THE GOODFELLAS
