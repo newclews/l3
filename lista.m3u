@@ -59,6 +59,12 @@ https://edge10-bog.live.mmcdn.com/live-hls/amlst:benz_boys-sd-b877770f3fdfff5002
 https://edge10-gru.live.mmcdn.com/live-hls/amlst:extrangers-sd-cd991dba77a68688b5547c7e0ad735d2130f7264bc62743e2905a40aef1a64d7_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", MAXX DICK
 https://edge9-gru.live.mmcdn.com/live-hls/amlst:maxx_dick-sd-c11015eafcb0e0ae5bcb8c8647f9a2388cfad579c41b8682221e95cb284b3212_trns_h264/playlist.m3u8
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HTO GANG
+https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto_gang/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HTO MYLF
+https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto_mylf/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
+#EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", HTO PLUS
+https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto_plus/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", LEO TV
 http://88b9da48.kazmazpaz.ru/iptv/PBPM6BS9YL9N39/6272/manifest.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BHOT
