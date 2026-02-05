@@ -42,7 +42,7 @@ https://edge10-bog.live.mmcdn.com/live-hls/amlst:icevermilk-sd-10af1470eb10feceb
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", KOBAYASKE
 https://edge1-bog.live.mmcdn.com/live-hls/amlst:kobayaske-sd-470bd1f06c98581415e159fb0a770524364a73b3d2d289b85db351d447b6d37a_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", BORANGET
-https://edge16-mia.live.mmcdn.com/live-hls/amlst:boranget-sd-789ccd11cb3e53e894e7b9aeffe2402d158fa614749ee1fd7177e712580411fc_trns_h264/playlist.m3u8
+https://edge17-gru.live.mmcdn.com/live-hls/amlst:boranget-sd-9d46d65525af90cdf43b222a3783eacc5a4802bb5dd319478fa88a7eacc54576_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", CRISMENS
 https://edge6-bog.live.mmcdn.com/live-hls/amlst:crismens-sd-ff1cecc4922e9b1aa8b403b58d3fb6356982d4cc3123f1f52ada6a8998bc3ef7_trns_h264/playlist.m3u8
 #EXTINF:0 type="stream" channelId="889" group-title="Ao Vivo" aspect-ratio="Original", FLYCKERX
